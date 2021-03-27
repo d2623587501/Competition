@@ -1,2 +1,2 @@
 # Competition
-参加竞赛baseline
+参加竞赛阅历
